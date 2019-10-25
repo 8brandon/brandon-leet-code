@@ -1,0 +1,1 @@
+loop through the array and check for the next highest number in the array, if there is a higher number
